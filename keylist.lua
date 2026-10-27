@@ -24,7 +24,7 @@ return {
         max_devices = 1,
         SLOT = "3"
     },
-["EREN-1DEVICEV2"] = {
+["EREN-1D"] = {
         type = "VIP",
         expiry = "2027-01-01",
         valid = true,
