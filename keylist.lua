@@ -17,7 +17,7 @@ return {
         max_devices = 5,
         SLOT = "2"
     },
-    ["EREN_TONY"] = {
+    ["ERENXTONY"] = {
         type = "VIP",
         expiry = "2027-01-01",
         valid = true,
