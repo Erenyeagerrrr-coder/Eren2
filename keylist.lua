@@ -45,6 +45,13 @@ return {
         max_devices = 1,
         SLOT = "5"
     },
+["EURO2"] = {
+        type = "VIP",
+        expiry = "2027-12-31",
+        valid = true,
+        max_devices = 1,
+        SLOT = "1"
+    },
 
 ["EURO1"] = {
         type = "VIP",
