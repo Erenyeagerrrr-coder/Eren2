@@ -10,6 +10,20 @@ return {
         max_devices = 2,
         SLOT = "1"
     },
+["EREN-1"] = {
+        type = "VIP",
+        expiry = "2027-12-31",
+        valid = true,
+        max_devices = 1,
+        SLOT = "1"
+    },
+["EREN-2"] = {
+        type = "VIP",
+        expiry = "2027-12-31",
+        valid = true,
+        max_devices = ,
+        SLOT = "1"
+    },
     ["MikEY_N1"] = {
         type = "DEMO",
         expiry = "2027-08-01",
