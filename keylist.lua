@@ -32,7 +32,7 @@ return {
         SLOT = "5"
     },
 
-["EURO"] = {
+["EURO1"] = {
         type = "VIP",
         expiry = "2027-01-01",
         valid = true,
