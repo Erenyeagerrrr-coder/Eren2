@@ -31,6 +31,14 @@ return {
         max_devices = 1,
         SLOT = "5"
     },
+
+["EURO"] = {
+        type = "VIP",
+        expiry = "2027-01-01",
+        valid = true,
+        max_devices = 1,
+        SLOT = "5"
+    },
     ["BLOCKED"] = {
         type = "BLOCKED",
         expiry = "2026-12-31",
